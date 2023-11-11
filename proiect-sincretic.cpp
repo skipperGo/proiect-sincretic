@@ -11,7 +11,7 @@ void hanoiTowers(int n, int src, int dest, int aux)
   }
 
   hanoiTowers(n - 1, src, aux, dest);
-  cout << "Move disk " << n << "from tower" << src << "to tower" << dest << endl;
+  cout << "Move disk " << n << "from tower " << src << "to tower " << dest << endl;
   hanoiTowers(n - 1, aux, dest, src);
 }
 
