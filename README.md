@@ -26,7 +26,7 @@ Acest proiect contine un program care rezolva aceasta problema pentru N discuri.
 
 - Comanda respectiva va fi introdusa in terminal, iar mai apoi se va folosi urmatoarea comanda pentru a rula programul:
 
-> docker run --rm -it --name my-app xevvon/sincretic-project
+> docker run --rm -it --name my-cool-app xevvon/proiect-sincretic
 
 ## Rezultat
 
