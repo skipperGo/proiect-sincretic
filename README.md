@@ -19,4 +19,17 @@ Acest proiect contine un program care rezolva aceasta problema pentru N discuri.
 
 ## Utilizare
 
-Pentru a rula programul se va folosi o imagine DOCKER.
+- Pentru a rula programul se va folosi o imagine DOCKER.
+
+- Accesand link-ul urmator vei putea copia comanda de pull pentru a accesa fisierul sura:
+  https://hub.docker.com/r/xevvon/sincretic-project
+
+- Comanda respectiva va fi introdusa in terminal, iar mai apoi se va folosi urmatoarea comanda pentru a rula programul:
+
+> docker run --rm -it --name my-app xevvon/sincretic-project
+
+## Rezultat
+
+Dupa executarea comenzii anterioare programul va astepta date introduse de utilizator.
+
+Rezultatul final va fi secventa de mutari ce trebuiesc realizate pentru a muta toate cele N discuri de pe prima tija pe ultima.
