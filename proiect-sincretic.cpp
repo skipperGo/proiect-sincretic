@@ -17,4 +17,9 @@ void hanoiTowers(int n, int src, int dest, int aux)
 
 int main()
 {
+  int n;
+  cout << "Enter the number of disks: ";
+  cin >> n;
+  hanoiTowers(n, 1, 3, 2);
+  return 0;
 }
