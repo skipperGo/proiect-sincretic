@@ -22,7 +22,7 @@ Acest proiect contine un program care rezolva aceasta problema pentru N discuri.
 - Pentru a rula programul se va folosi o imagine DOCKER.
 
 - Accesand link-ul urmator vei putea copia comanda de pull pentru a accesa fisierul sura:
-  https://hub.docker.com/r/xevvon/sincretic-project
+  https://hub.docker.com/r/xevvon/proiect-sincretic
 
 - Comanda respectiva va fi introdusa in terminal, iar mai apoi se va folosi urmatoarea comanda pentru a rula programul:
 
